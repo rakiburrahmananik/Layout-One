@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: #000;
+    color:#fff;
+    height:50px;
+}
+
+
+    .banner{
+        text-align: center;
+        background-color: coral;
+        height:90px;
+        font-size:30px;
+    }
+
+
+        .ad{
+            display:flex;
+            text-align:center;
+        }
+        .left{
+            width:50%;
+            height:160px;
+            background-color: goldenrod;
+        }
+        .right{
+            width:50%;
+            height:160px;
+            background-color: hotpink;
+        }
+
+            .feature{
+                display:flex;
+                text-align: center;
+            }
+            .st{
+                width:33.33%;
+                height:170px;
+                background-color: fuchsia;
+            }
+            .nd{
+                width:33.33%;
+                height:170px;
+                background-color: forestgreen;
+            }
+            .rd{
+                width:33.33%;
+                height:170px;
+                background-color:khaki;
+            }
+
+                    .maincontent{
+                        display:flex;
+                        text-align: center;
+                    }
+                    .first{
+                        width:80%;
+                        height:100px;
+                        background-color:blanchedalmond;
+                    }
+                    .second{
+                        width:20%;
+                        height:100px;
+                        background-color:rgb(95, 69, 30);
+                    }
+
+                        .contact{
+                            display:flex;
+                            text-align: center;
+                        }
+                        .info{
+                            width:35%;
+                            background-color: lightblue;
+                            height:100px;
+                        }
+                        .phone{
+                            width:65%;
+                            background-color: rgb(3, 187, 249);
+                            height:100px;
+                        }
+
+                            footer{
+                                text-align: center;
+                                background-color: slategray;
+                                height:50px;
+                            }
